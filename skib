@@ -7,7 +7,7 @@ local shared = {
         inline = vector.create(0.023, 0.023, 0.023),
         dark = vector.create(0.104, 0.104, 0.104),
         text = vector.create(1, 1, 1),
-        accent = vector.create(0.8039, 0.0, 0.4980),
+        accent = vector.create(102, 102, 102)
         section = vector.create(0.588, 0.588, 0.588),
     }
 }
